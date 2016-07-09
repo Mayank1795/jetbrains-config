@@ -1,7 +1,7 @@
 <scheme name="MT Default Mod" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Meslo LG S for Powerline" />
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
@@ -1170,8 +1170,15 @@
         <option name="FOREGROUND" value="20c3ff" />
       </value>
     </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="20c3ff" />
+      </value>
+    </option>
     <option name="PY.SELF_PARAMETER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="2cd388" />
+      </value>
     </option>
     <option name="PY.STRING.U">
       <value>
