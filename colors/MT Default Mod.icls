@@ -1156,7 +1156,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="2acfb4" />
+        <option name="FOREGROUND" value="27bca2" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
@@ -1168,6 +1168,11 @@
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="25e3d7" />
+      </value>
+    </option>
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="27bca2" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
