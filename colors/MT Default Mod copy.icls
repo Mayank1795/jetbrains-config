@@ -1,4 +1,4 @@
-<scheme name="MT Default Mod" version="142" parent_scheme="Default">
+<scheme name="MT Default Mod copy" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
@@ -205,7 +205,9 @@
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
     </option>
     <option name="CONSOLE_OUTPUT">
       <value>
@@ -228,7 +230,9 @@
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="f8f8f0" />
+      </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
